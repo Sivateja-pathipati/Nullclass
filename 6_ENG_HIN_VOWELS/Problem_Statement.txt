@@ -1,0 +1,5 @@
+Problem Statement:
+ 
+Create a feature to translate the English word to Hindi and it should not translate if the English word starts with vowels and other words it should convert.
+If we enter a English word starts with Vowels it should show an error message as This word starts with Vowels provide some other words and this model should 
+be able to convert english word starts with vowels around 9 PM to 10 PM

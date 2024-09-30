@@ -1,0 +1,5 @@
+Problem Statement:
+ 
+Create a feature to translate the language with a combination of two languages at the same time. We should be able to 
+convert the 2 different languages at the same time. translate English to French and Hindi at the same time . This model
+should work only for 10 letter English words. If we enter below 10 letters or above 10 letters it should not work. 

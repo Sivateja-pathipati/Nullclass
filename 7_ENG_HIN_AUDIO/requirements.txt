@@ -1,0 +1,7 @@
+tensorflow==2.16.1
+numpy==1.26.4
+pandas==2.2.3
+ipykernel==6.29.5
+SpeechRecognition==3.10.4
+pyaudio==0.2.14
+openai-whisper==20231117

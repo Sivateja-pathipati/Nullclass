@@ -1,0 +1,24 @@
+1) Load a pre-trained LSTM-based NMT model and use it to translate a sentence from one language to another:
+
+2) Implement beam search decoding for an NMT model to improve translation quality
+
+3) Create a feature to translate the language from French to Tamil and it should translate if the French word has only five letter if word has more than 
+   five letters or less than five letters the model should not translate the word
+
+
+4) Create a feature to throw an error if we enter wrong word, and provide some suggestion if we enter wrong word twice continuously it should show the list of 
+   wrong words which we enter so far in the error notification as well as some suggestions related to the word.
+
+
+5) Create a feature to translate the language with a combination of two languages at the same time. We should be able to 
+   convert the 2 different languages at the same time. translate English to French and Hindi at the same time . This model
+   should work only for 10 letter English words. If we enter below 10 letters or above 10 letters it should not work. 
+
+6) Create a feature to translate the English word to Hindi and it should not translate if the English word starts with vowels and other words it should convert.
+   If we enter a English word starts with Vowels it should show an error message as This word starts with Vowels provide some other words and this model should 
+   be able to convert english word starts with vowels around 9 PM to 10 PM
+
+7) Create a feature to translate the audio into Hindi . The system will listen the english audio from user and it will convert into Hindi word.
+   If the system does not understand the audio it will ask repeat one more time to make it better.. The audio should be in English word only . 
+   This translation feature work on only after 6 PM IST timing and before that it should show message like please try after 6 PM IST as well as
+   it should not translate any english which is start with M and O apart from that it should translate all other words .

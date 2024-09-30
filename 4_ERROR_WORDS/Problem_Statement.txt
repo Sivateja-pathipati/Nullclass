@@ -1,0 +1,4 @@
+Problem Statement:
+ 
+Create a feature to throw an error if we enter wrong word, and provide some suggestion if we enter wrong word twice continuously it should show the list of 
+wrong words which we enter so far in the error notification as well as some suggestions related to the word.
